@@ -19,7 +19,7 @@ _A website with the theme and layout of old school text adventure, with simple f
 ## Setup/Installation Requirements
 
 * _Navigate to URL_
-* _URL HERE_
+* _https://g0blinc0de.github.io/ShortestQuest/_
 * _Choose your Destiny_
 
 
